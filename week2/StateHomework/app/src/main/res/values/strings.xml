@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StateHomework</string>
+    <string name="button_count_label">Count</string>
+    <string name="editText_label">Name</string>
+</resources>
